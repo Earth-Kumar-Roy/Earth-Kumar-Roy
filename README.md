@@ -134,23 +134,6 @@
 
 </div>
 
-<details>
-<summary><b>🔍 Explore Full Ecosystem (15+ Repos)</b></summary>
-
-<br/>
-
-- **SorobanEscrowHub** — Decentralized P2P Milestone Escrow & Arbitration dApp [Makefile]
-- **stellar-poll** — Real-time polling dApp with multi-wallet sync [Soroban]
-- **EKR-Bulk-Freighter-Wallet-Generator** — High-volume account generator for traction testing [TS]
-- **stellar-pay** — Modern Web3 payment dApp on Stellar Testnet [JS]
-- **oiml-r76-sih** — OIML R76 Legal Metrology Automation (Annex F, SHA-256 PDF) [Private TS]
-- **SAT-SA-SIH26157** — SOC Assessment Platform (Isolation Forest, NIST SP 800-61) [Private TS]
-- **Waste-Reporting System** — Civic-tech with ID verification & admin automation [HTML/GS]
-- **AI Face Attendance** — Face-API.js + TensorFlow.js biometric system
-- **Base64 Encoder/Decoder, Canvas PDF to HTML, Mass Email Sender** — Lightweight automation tools
-
-</details>
-
 ---
 
 ## 🧰 Tech Stack — Visual Grid
@@ -204,67 +187,61 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Earth-Kumar-Roy&theme=tokyonight&hide_border=true&border_radius=12" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Earth-Kumar-Roy&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
 
 <br/><br/>
 
-<!-- Fixed Activity Graph - Never 404s -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Earth-Kumar-Roy&theme=tokyo-night&bg_color=0f0c29&color=7DF9FF&line=7DF9FF&point=ffffff&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://ghchart.rshah.org/7DF9FF/Earth-Kumar-Roy" width="95%" alt="GitHub Contribution Chart - Always Works"/>
 
 <br/><br/>
 
-<!-- Snake - using reliable platane output via github action URL pattern that works -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation - requires action to generate your own later"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Earth-Kumar-Roy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Earth-Kumar-Roy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6" width="95%" />
 
 </div>
 
 ---
 
-## 🎨 Design Philosophy
-
-> **Camo • Glass • Depth • Motion**
-
-- **Camo Logic:** Every protocol has a public interface and a hidden cryptographic layer. What you see is verified, what you don't see is proven.
-- **3D Effective:** Smart contracts are not flat code — they are state machines with depth, time-locks, and economic weight.
-- **Non-Custodial by Default:** If you have to trust me, I failed.
-
-```js
-// My build rule
-if (requiresTrust) {
-  rewriteWithProof();
-}
-```
-
----
-
-## 📫 Connect & Collaborate
+## 📫 Connect — Let's Build Trustless Systems
 
 <div align="center">
 
-| Channel | Link |
-| :--- | :--- |
-| **Portfolio Site** | [sites.google.com/view/ekr1](https://sites.google.com/view/ekr1/) |
-| **Leave a Message** | [Direct Inquiry Form](https://sites.google.com/view/ekr1/leave-a-message) |
-| **LinkedIn** | [@earth-kumar-roy](https://www.linkedin.com/in/earth-kumar-roy/) |
-| **X / Twitter** | [@Earth_Kumar_Roy](https://x.com/Earth_Kumar_Roy) |
-| **Email** | earth.kumar.roy9752@gmail.com |
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="https://sites.google.com/view/ekr1/"><img src="https://img.shields.io/badge/Portfolio-EKR1-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a><br/>
+<sub><b>Website</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="https://sites.google.com/view/ekr1/leave-a-message"><img src="https://img.shields.io/badge/Message-Leave_Message-25D366?style=for-the-badge&logo=googlemessages&logoColor=white" /></a><br/>
+<sub><b>Direct Inquiry</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="https://linkedin.com/in/earth-kumar-roy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
+<sub><b>Professional</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="https://x.com/Earth_Kumar_Roy"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a><br/>
+<sub><b>Updates</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="mailto:earth.kumar.roy9752@gmail.com"><img src="https://img.shields.io/badge/Email-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/>
+<sub><b>earth.kumar.roy9752@gmail.com</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-Collab%20on%20Soroban%20%7C%20ZK%20Tooling%20%7C%20Treasury%20Protocols-00FFAB?style=for-the-badge&logo=stellar&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20FOR-Soroban%20Escrow%20%7C%20ZK%20Governance%20%7C%20Treasury%20Defense%20%7C%20Web3%20Automation-7DF9FF?style=for-the-badge&labelColor=0f0c29" />
 
 <br/><br/>
 
-<i>"Origin Ujjain 🔱 Jay Shree Mahakal 🚩 — Building trustless systems for a trust-starved world."</i>
+<sub>Origin: Ujjain 🔱 Jay Shree Mahakal 🚩🔱 • <i>"Code without trust assumptions. Build for verification, not validation."</i></sub>
 
 <br/><br/>
 
