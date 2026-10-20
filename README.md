@@ -17,12 +17,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-80bb-64be184f1d15.gif" width="100%" />
 
 <p align="center">
-<strong>Origin: Ujjain 🔱 Jay Shree Mahakal 🚩🔱 | Web3 | Smart Contracts | ZK Proofs | Automation</strong>
+  <strong>Origin: Ujjain 🔱 Jay Shree Mahakal 🚩🔱 | Web3 | Smart Contracts | ZK Proofs | Automation</strong>
 </p>
 
 </div>
 
-🧬 whoami — The Core Thesis
+---
+
+## 🧬 `whoami` — The Core Thesis
+
+```ts
 const EarthKumarRoy = {
   role: "Web3 Protocol Engineer & Automation Architect",
   chains: ["Stellar Soroban", "Ethereum EVM", "Solana"],
@@ -31,75 +35,89 @@ const EarthKumarRoy = {
   zk_stack: ["Circom", "SnarkJS", "Groth16", "Poseidon", "Solidity Verifiers"],
   mantra: "Code without trust assumptions. Build for verification, not validation."
 }
-I build autonomous financial infrastructure — escrow engines, treasury defense protocols, and privacy-preserving governance where funds cannot move without cryptographic proof.
+```
 
-🛡️ Treasury Defense Systems: Instant non-custodial escrow, dynamic time-locks, multi-party arbitration on Soroban.
-🔐 Zero-Knowledge Systems: Private voting, anonymous identity, and verifiable computation with Groth16.
-🌊 Milestone-Based Escrows: Automated XLM payouts, on-chain audit trails, event-driven notifications.
-⚙️ Automation Layer: Lightweight tools on Google Apps Script, Firebase, Sheets-as-DB that ship in hours, not weeks.
-💎 Flagship Protocols — The Triad
+> I build **autonomous financial infrastructure** — escrow engines, treasury defense protocols, and privacy-preserving governance where funds cannot move without cryptographic proof.
+
+- 🛡️ **Treasury Defense Systems:** Instant non-custodial escrow, dynamic time-locks, multi-party arbitration on Soroban.
+- 🔐 **Zero-Knowledge Systems:** Private voting, anonymous identity, and verifiable computation with Groth16.
+- 🌊 **Milestone-Based Escrows:** Automated XLM payouts, on-chain audit trails, event-driven notifications.
+- ⚙️ **Automation Layer:** Lightweight tools on Google Apps Script, Firebase, Sheets-as-DB that ship in hours, not weeks.
+
+---
+
+## 💎 Flagship Protocols — The Triad
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-🛡️ Stellar-Sentinel
-Autonomous Treasury Defense
+### 🛡️ Stellar-Sentinel
+**Autonomous Treasury Defense**
 <img src="https://img.shields.io/badge/Soroban-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Active-00FFAB?style=flat-square"/>
 
-Problem: Corporate disbursements are custodial & corruptible.
-Solution: Non-custodial smart escrow + dynamic time-locks + role-based release. No human can rugged.
+**Problem:** Corporate disbursements are custodial & corruptible.  
+**Solution:** Non-custodial smart escrow + dynamic time-locks + role-based release. No human can rugged.
 
-Soroban smart contracts in Rust
-Time-locked disbursement logic
-Multi-sig + policy engine
-→ View Protocol | TypeScript + Rust
+- Soroban smart contracts in Rust
+- Time-locked disbursement logic
+- Multi-sig + policy engine
+
+[**→ View Protocol**](https://github.com/Earth-Kumar-Roy/Stellar-Sentinel) | `TypeScript + Rust`
 
 </td>
 <td width="33%" valign="top">
 
-🌊 StellarFlow V2
-Trustless Milestone Escrow
+### 🌊 StellarFlow V2
+**Trustless Milestone Escrow**
 <img src="https://img.shields.io/badge/Soroban-TypeScript-3178C6?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/Version-V2-blueviolet?style=flat-square"/>
 
-Problem: Web3 freelancing has no enforceable trust layer.
-Solution: Cryptographically enforced milestone payments with automated XLM settlement.
+**Problem:** Web3 freelancing has no enforceable trust layer.  
+**Solution:** Cryptographically enforced milestone payments with automated XLM settlement.
 
-Milestone-based release
-On-chain audit trails
-Client / Freelancer / Arbiter flow
-Production-ready v2 architecture
-→ View Protocol | Major Refactor Sep 2025
+- Milestone-based release
+- On-chain audit trails
+- Client / Freelancer / Arbiter flow
+- Production-ready v2 architecture
+
+[**→ View Protocol**](https://github.com/Earth-Kumar-Roy/StellarFlowV2) | `Major Refactor Sep 2025`
 
 </td>
 <td width="33%" valign="top">
 
-🗳️ ZKBallotChain
-Privacy-Preserving Governance
+### 🗳️ ZKBallotChain
+**Privacy-Preserving Governance**
 <img src="https://img.shields.io/badge/ZK-Groth16-9945FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Circom-Poseidon-4E75A0?style=flat-square"/>
 
-Problem: On-chain voting leaks identity & choice.
-Solution: Fully anonymous voting with zk-SNARK proofs verified on-chain.
+**Problem:** On-chain voting leaks identity & choice.  
+**Solution:** Fully anonymous voting with zk-SNARK proofs verified on-chain.
 
-Circom circuits + SnarkJS
-Poseidon hash commitment
-Solidity Verifier on Sepolia
-Nullifier to prevent double-vote
-→ View Protocol | ZK Integrated
+- Circom circuits + SnarkJS
+- Poseidon hash commitment
+- Solidity Verifier on Sepolia
+- Nullifier to prevent double-vote
+
+[**→ View Protocol**](https://github.com/Earth-Kumar-Roy/ZKBallotChain) | `ZK Integrated`
 
 </td>
 </tr>
 </table>
 
-⛓️ Multi-Chain Arsenal
+---
+
+## ⛓️ Multi-Chain Arsenal
+
 <div align="center">
 
-Chain	Focus	Stack & Tools	Key Projects
-Stellar Soroban	Escrow, Treasury, Payments	Rust, Soroban SDK, Freighter, Horizon API	Sentinel, StellarFlow, Poll, EscrowHub, Bulk Wallet Gen
-Ethereum	ZK Governance, DeFi Logic	Solidity, Hardhat, Circom, SnarkJS, Ethers.js, Sepolia	ZKBallotChain
-Solana	High-Throughput dApps (Expanding)	Rust, Anchor (WIP), Web3.js	Modular components being ported
+| Chain | Focus | Stack & Tools | Key Projects |
+| :--- | :--- | :--- | :--- |
+| **Stellar Soroban** | Escrow, Treasury, Payments | Rust, Soroban SDK, Freighter, Horizon API | Sentinel, StellarFlow, Poll, EscrowHub, Bulk Wallet Gen |
+| **Ethereum** | ZK Governance, DeFi Logic | Solidity, Hardhat, Circom, SnarkJS, Ethers.js, Sepolia | ZKBallotChain |
+| **Solana** | High-Throughput dApps (Expanding) | Rust, Anchor (WIP), Web3.js | *Modular components being ported* |
+
 </div>
 
 <details>
@@ -107,21 +125,25 @@ Solana	High-Throughput dApps (Expanding)	Rust, Anchor (WIP), Web3.js	Modular com
 
 <br/>
 
-SorobanEscrowHub — Decentralized P2P Milestone Escrow & Arbitration dApp [Makefile]
-stellar-poll — Real-time polling dApp with multi-wallet sync [Soroban]
-EKR-Bulk-Freighter-Wallet-Generator — High-volume account generator for traction testing [TS]
-stellar-pay — Modern Web3 payment dApp on Stellar Testnet [JS]
-oiml-r76-sih — OIML R76 Legal Metrology Automation (Annex F, SHA-256 PDF) [Private TS]
-SAT-SA-SIH26157 — SOC Assessment Platform (Isolation Forest, NIST SP 800-61) [Private TS]
-Waste-Reporting System — Civic-tech with ID verification & admin automation [HTML/GS]
-AI Face Attendance — Face-API.js + TensorFlow.js biometric system
-Base64 Encoder/Decoder, Canvas PDF to HTML, Mass Email Sender — Lightweight automation tools
+- **SorobanEscrowHub** — Decentralized P2P Milestone Escrow & Arbitration dApp [Makefile]
+- **stellar-poll** — Real-time polling dApp with multi-wallet sync [Soroban]
+- **EKR-Bulk-Freighter-Wallet-Generator** — High-volume account generator for traction testing [TS]
+- **stellar-pay** — Modern Web3 payment dApp on Stellar Testnet [JS]
+- **oiml-r76-sih** — OIML R76 Legal Metrology Automation (Annex F, SHA-256 PDF) [Private TS]
+- **SAT-SA-SIH26157** — SOC Assessment Platform (Isolation Forest, NIST SP 800-61) [Private TS]
+- **Waste-Reporting System** — Civic-tech with ID verification & admin automation [HTML/GS]
+- **AI Face Attendance** — Face-API.js + TensorFlow.js biometric system
+- **Base64 Encoder/Decoder, Canvas PDF to HTML, Mass Email Sender** — Lightweight automation tools
+
 </details>
 
-🧰 Tech Stack — Visual Grid
+---
+
+## 🧰 Tech Stack — Visual Grid
+
 <div align="center">
 
-Blockchain & Cryptography
+### Blockchain & Cryptography
 <img src="https://img.shields.io/badge/Stellar_Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
@@ -130,7 +152,7 @@ Blockchain & Cryptography
 <img src="https://img.shields.io/badge/Circom_ZK-FF6B6B?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
 <img src="https://img.shields.io/badge/SnarkJS_Groth16-4ECDC4?style=for-the-badge" />
 
-Languages
+### Languages
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -139,14 +161,14 @@ Languages
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Pine_Script-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
 
-Frameworks & Backend
+### Frameworks & Backend
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-Databases, Cloud & DevOps
+### Databases, Cloud & DevOps
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -158,7 +180,10 @@ Databases, Cloud & DevOps
 
 </div>
 
-📈 GitHub Pulse — Live Telemetry
+---
+
+## 📈 GitHub Pulse — Live Telemetry
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Earth-Kumar-Roy&theme=tokyonight" width="95%" />
@@ -185,25 +210,37 @@ Databases, Cloud & DevOps
 
 </div>
 
-🎨 Design Philosophy
-Camo • Glass • Depth • Motion
+---
 
-Camo Logic: Every protocol has a public interface and a hidden cryptographic layer. What you see is verified, what you don't see is proven.
-3D Effective: Smart contracts are not flat code — they are state machines with depth, time-locks, and economic weight.
-Non-Custodial by Default: If you have to trust me, I failed.
+## 🎨 Design Philosophy
+
+> **Camo • Glass • Depth • Motion**
+
+- **Camo Logic:** Every protocol has a public interface and a hidden cryptographic layer. What you see is verified, what you don't see is proven.
+- **3D Effective:** Smart contracts are not flat code — they are state machines with depth, time-locks, and economic weight.
+- **Non-Custodial by Default:** If you have to trust me, I failed.
+
+```js
 // My build rule
 if (requiresTrust) {
   rewriteWithProof();
 }
-📫 Connect & Collaborate
+```
+
+---
+
+## 📫 Connect & Collaborate
+
 <div align="center">
 
-Channel	Link
-Portfolio Site	sites.google.com/view/ekr1
-Leave a Message	Direct Inquiry Form
-LinkedIn	@earth-kumar-roy
-X / Twitter	@Earth_Kumar_Roy
-Email	earth.kumar.roy9752@gmail.com
+| Channel | Link |
+| :--- | :--- |
+| **Portfolio Site** | [sites.google.com/view/ekr1](https://sites.google.com/view/ekr1/) |
+| **Leave a Message** | [Direct Inquiry Form](https://sites.google.com/view/ekr1/leave-a-message) |
+| **LinkedIn** | [@earth-kumar-roy](https://www.linkedin.com/in/earth-kumar-roy/) |
+| **X / Twitter** | [@Earth_Kumar_Roy](https://x.com/Earth_Kumar_Roy) |
+| **Email** | earth.kumar.roy9752@gmail.com |
+
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO-Collab%20on%20Soroban%20%7C%20ZK%20Tooling%20%7C%20Treasury%20Protocols-00FFAB?style=for-the-badge&logo=stellar&logoColor=white" />
