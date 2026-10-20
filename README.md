@@ -24,24 +24,38 @@
 
 ---
 
-## 🧬 `whoami` — The Core Thesis
+## 🧬 Identity Protocol — Who I Am
 
-```ts
-const EarthKumarRoy = {
-  role: "Web3 Protocol Engineer & Automation Architect",
-  chains: ["Stellar Soroban", "Ethereum EVM", "Solana"],
-  paradigm: "Non-Custodial • Trustless • Verifiable",
-  mission: "Eliminate counterparty risk with code that doesn't need trust.",
-  zk_stack: ["Circom", "SnarkJS", "Groth16", "Poseidon", "Solidity Verifiers"],
-  mantra: "Code without trust assumptions. Build for verification, not validation."
-}
-```
+<div align="center">
 
-> I build **autonomous financial infrastructure** — escrow engines, treasury defense protocols, and privacy-preserving governance where funds cannot move without cryptographic proof.
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Role-Web3_Protocol_Engineer-0f0c29?style=for-the-badge" /><br/>
+<sub>Non-Custodial Architecture</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Chains-Stellar_%7C_Eth_%7C_Sol-302b63?style=for-the-badge" /><br/>
+<sub>Multi-Chain Defense</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Paradigm-Trustless_Verifiable-24243e?style=for-the-badge" /><br/>
+<sub>Proof > Promise</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ZK-Circom_Groth16_Poseidon-7DF9FF?style=for-the-badge&color=black" /><br/>
+<sub>Privacy by Math</sub>
+</td>
+</tr>
+</table>
 
-- 🛡️ **Treasury Defense Systems:** Instant non-custodial escrow, dynamic time-locks, multi-party arbitration on Soroban.
-- 🔐 **Zero-Knowledge Systems:** Private voting, anonymous identity, and verifiable computation with Groth16.
-- 🌊 **Milestone-Based Escrows:** Automated XLM payouts, on-chain audit trails, event-driven notifications.
+**> I build autonomous financial infrastructure where funds cannot move without cryptographic proof — escrow engines, treasury defense protocols, and privacy-preserving governance.**
+
+</div>
+
+- 🛡️ **Treasury Defense:** Instant non-custodial escrow, dynamic time-locks, multi-party arbitration on Soroban Rust.
+- 🔐 **Zero-Knowledge Systems:** Private voting & identity with Circom + SnarkJS + Groth16 + Poseidon → Solidity verifiers.
+- 🌊 **Milestone Escrows:** Automated XLM payouts, on-chain audit trails, event-driven notifications (StellarFlow V2).
 - ⚙️ **Automation Layer:** Lightweight tools on Google Apps Script, Firebase, Sheets-as-DB that ship in hours, not weeks.
 
 ---
@@ -199,10 +213,13 @@ const EarthKumarRoy = {
 
 <br/><br/>
 
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contrib - will fallback if not present"/>
-<!-- Fallback camo snake -->
-<img src="https://github.com/Earth-Kumar-Roy/Earth-Kumar-Roy/blob/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
+<!-- Fixed Activity Graph - Never 404s -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Earth-Kumar-Roy&theme=tokyo-night&bg_color=0f0c29&color=7DF9FF&line=7DF9FF&point=ffffff&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<!-- Snake - using reliable platane output via github action URL pattern that works -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation - requires action to generate your own later"/>
 
 <br/><br/>
 
