@@ -15,7 +15,7 @@
     <a href="https://sites.google.com/view/ekr1/leave-a-message"><img src="https://img.shields.io/badge/Leave%20a%20Message-25D366?style=for-the-badge&logo=google-chat&logoColor=white" alt="Contact"/></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Decentralized+Escrows+%26+Treasury+Protocols;Soroban+Smart+Contracts+on+Stellar;Zero-Knowledge+Governance+(Groth16+%2B+Circom);Full-Stack+Web3+%26+Automation+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Decentralized+Escrows+%26+Treasury+Protocols;Zero-Knowledge+Governance+(Groth16+%2B+Circom);Defi+|+Smart+Contracts;Rust+|+Solidity+...;Full-Stack+Web3+%26+Automation+Architect" alt="Typing SVG" />
 </div>
 
 ---
