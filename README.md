@@ -25,7 +25,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 | | Focus | What I build |
 |---|---|---|
-| 🛡️ | **Treasury & Governance** | Autonomous treasury protocols, time-locked escrow, on-chain arbitration |
+| 🛡 | **Treasury & Governance** | Autonomous treasury protocols, time-locked escrow, on-chain arbitration |
 | 🔐 | **Zero-Knowledge** | Circom circuits, SnarkJS, Groth16, Poseidon hashing, Solidity verifiers |
 | 💸 | **DeFi & Escrow** | Milestone-based payments, verifiable audit trails, XLM payouts |
 | ⚡ | **Web3 Tooling** | dApp frontends, wallet integrations, automation pipelines |
@@ -50,7 +50,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🛡️ Stellar Sentinel</h3>
+      <h3 align="center">🛡 Stellar Sentinel</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Soroban-0B3D2E?style=flat-square&logo=stellar&logoColor=39ff88"/>
         <img src="https://img.shields.io/badge/Rust-0B3D2E?style=flat-square&logo=rust&logoColor=39ff88"/>
@@ -68,7 +68,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
       <p align="center"><a href="https://github.com/Earth-Kumar-Roy/StellarFlowV2"><strong>Explore Repo »</strong></a></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🗳️ ZKBallotChain</h3>
+      <h3 align="center">🗳 ZKBallotChain</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Groth16-0B3D2E?style=flat-square&logo=ethereum&logoColor=39ff88"/>
         <img src="https://img.shields.io/badge/Sepolia-0B3D2E?style=flat-square&logo=ethereum&logoColor=39ff88"/>
@@ -81,9 +81,9 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
 
-## 🛠️ Web3 Tech Stack
+## 🛠 Web3 Tech Stack
 
-#### ⛓️ Blockchain & Zero-Knowledge
+#### ⛓ Blockchain & Zero-Knowledge
 <p>
   <img src="https://img.shields.io/badge/Stellar-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Soroban-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
@@ -116,7 +116,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
   <img src="https://img.shields.io/badge/Tailwind-0B3D2E?style=for-the-badge&logo=tailwindcss&logoColor=39ff88"/>
 </p>
 
-#### ☁️ Infra, Data & Automation
+#### ☁ Infra, Data & Automation
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/MongoDB-0B3D2E?style=for-the-badge&logo=mongodb&logoColor=39ff88"/>
@@ -143,14 +143,6 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 <br/>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/39ff88/Earth-Kumar-Roy" width="97%" alt="Contribution Graph"/>
-</div>
-
-### 🏆 Highlights
-
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.public_repos&label=Public%20Repos" alt="Repos"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.followers&label=Followers" alt="Followers"/>
@@ -158,10 +150,16 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
   <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=00c853&logo=github&logoColor=39ff88&label=Follow" alt="Follow"/>
 </div>
 
+<br/>
+
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake.svg" alt="Contribution Snake" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-contribution-grid-snake.svg" width="95%"/>
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
