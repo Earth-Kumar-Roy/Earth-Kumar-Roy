@@ -28,7 +28,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 | 🛡 | **Treasury & Governance** | Autonomous treasury protocols, time-locked escrow, on-chain arbitration |
 | 🔐 | **Zero-Knowledge** | Circom circuits, SnarkJS, Groth16, Poseidon hashing, Solidity verifiers |
 | 💸 | **DeFi & Escrow** | Milestone-based payments, verifiable audit trails, XLM payouts |
-| ⚡️ | **Web3 Tooling** | dApp frontends, wallet integrations, automation pipelines |
+| ⚡ | **Web3 Tooling** | dApp frontends, wallet integrations, automation pipelines |
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 ## 🛠 Web3 Tech Stack
 
-#### ⛓️ Blockchain & Zero-Knowledge
+#### ⛓ Blockchain & Zero-Knowledge
 <p>
   <img src="https://img.shields.io/badge/Stellar-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Soroban-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
@@ -116,7 +116,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
   <img src="https://img.shields.io/badge/Tailwind-0B3D2E?style=for-the-badge&logo=tailwindcss&logoColor=39ff88"/>
 </p>
 
-#### ☁️ Infra, Data & Automation
+#### ☁ Infra, Data & Automation
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/MongoDB-0B3D2E?style=for-the-badge&logo=mongodb&logoColor=39ff88"/>
@@ -143,25 +143,45 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 <br/>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/39ff88/Earth-Kumar-Roy" width="97%" alt="Contribution Graph"/>
-</div>
-
 ### 🏆 Highlights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.public_repos&label=Public%20Repos" alt="Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.followers&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.following&label=Following" alt="Following"/>
-  <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=00c853&logo=github&logoColor=39ff88&label=Follow" alt="Follow"/>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Earth-Kumar-Roy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars" alt="Total Stars"/>
+  </a>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=followers">
+    <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Followers" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=following">
+    <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?label=Following&style=for-the-badge&labelColor=39ff88&color=0B3D2E&logo=github&logoColor=0B3D2E" alt="Following"/>
+  </a>
+  <a href="https://github.com/Earth-Kumar-Roy">
+    <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?label=Follow&style=for-the-badge&labelColor=0B3D2E&color=00c853&logo=github&logoColor=39ff88" alt="Follow"/>
+  </a>
 </div>
+
+<br/>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake.svg" alt="Contribution Snake" width="95%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
+
+## 🔗 Quick Links
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/earth-kumar-roy](https://linkedin.com/in/earth-kumar-roy) |
+| 🐦 X (Twitter) | [@Earth_Kumar_Roy](https://x.com/Earth_Kumar_Roy) |
+| 🌐 Portfolio | [sites.google.com/view/ekr1](https://sites.google.com/view/ekr1/) |
+| 💬 Message | [Leave a Message](https://sites.google.com/view/ekr1/leave-a-message) |
+| 📧 Email | earth.kumar.roy9752@gmail.com |
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
