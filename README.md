@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,40:00693e,100:39ff88&height=240&section=header&text=Earth%20Kumar%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web3%20%E2%80%A2%20Smart%20Contracts%20%E2%80%A2%20Zero-Knowledge%20Proofs&descSize=18&descAlignY=58" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,40:00693e,100:39ff88&height=240&section=header&text=Earth%20Kumar%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Blockchain%20%E2%80%A2%20AI%20%E2%80%A2%20Web3%20%E2%80%A2%20Automation&descSize=18&descAlignY=58" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=640&lines=Building+trustless+%26+non-custodial+protocols;Soroban+%E2%80%A2+Solidity+%E2%80%A2+Rust+%E2%80%A2+Circom;Zero-Knowledge+Governance+%28Groth16+%2B+Poseidon%29;Escrow+%E2%80%A2+Treasury+%E2%80%A2+DeFi+Infrastructure;Growing+one+commit+at+a+time+%F0%9F%8C%B1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=640&lines=Blockchain+%26+AI+Enthusiast;Web3+%E2%80%A2+HTML+%E2%80%A2+JavaScript+%E2%80%A2+Pine+Script;Building+Simple+Web+Tools+%26+Automations;Growing+one+commit+at+a+time+%F0%9F%8C%B1" alt="Typing SVG"/>
 </div>
 
+<p align="center"><strong>Web3, HTML, JavaScript, Pine Script | AI Enthusiast | Building Simple Web Tools & Automations</strong></p>
 <p align="center"><strong>Origin: Ujjain 🔱 Jay Shree Mahakal 🚩🔱</strong></p>
 
 <p align="center">
@@ -21,14 +22,14 @@
 
 ## 🌱 About Me
 
-I'm a **Web3 developer** building trustless, non-custodial infrastructure. I work across **Stellar (Soroban)**, **Ethereum (EVM)** and **Solana**, and I design privacy-preserving systems with **zero-knowledge proofs (ZK-SNARKs)**.
+I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastructure and simple web tools. I work across **Stellar (Soroban)**, **Ethereum (EVM)**, **Solana** and **AI automations**, with a focus on practical, verifiable systems.
 
 | | Focus | What I build |
 |---|---|---|
 | 🛡 | **Treasury & Governance** | Autonomous treasury protocols, time-locked escrow, on-chain arbitration |
-| 🔐 | **Zero-Knowledge** | Circom circuits, SnarkJS, Groth16, Poseidon hashing, Solidity verifiers |
+| 🔐 | **Blockchain & AI** | Smart contracts, Pine Script tools, automation pipelines, AI-assisted tooling |
 | 💸 | **DeFi & Escrow** | Milestone-based payments, verifiable audit trails, XLM payouts |
-| ⚡ | **Web3 Tooling** | dApp frontends, wallet integrations, automation pipelines |
+| ⚡ | **Web3 Tooling** | dApp frontends, wallet integrations, simple web tools & automations |
 
 <div align="center">
 
@@ -37,7 +38,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 `🌰 Seed` → `🌱 Sprout` → `🌿 Builder` → `🌳 Protocol Engineer` → `🌲 Ecosystem`
 
 <img src="https://progress-bar.xyz/85/?title=Smart%20Contracts&width=420&color=00c853" alt="Smart Contracts"/><br/>
-<img src="https://progress-bar.xyz/75/?title=Zero-Knowledge&width=420&color=00c853" alt="ZK"/><br/>
+<img src="https://progress-bar.xyz/75/?title=Blockchain%20%26%20AI&width=420&color=00c853" alt="Blockchain AI"/><br/>
 <img src="https://progress-bar.xyz/80/?title=Full-Stack%20dApps&width=420&color=00c853" alt="dApps"/><br/>
 <img src="https://progress-bar.xyz/65/?title=Security%20%26%20Auditing&width=420&color=00c853" alt="Security"/>
 
@@ -83,7 +84,7 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 ## 🛠 Web3 Tech Stack
 
-#### ⛓ Blockchain & Zero-Knowledge
+#### ⛓ Blockchain & AI
 <p>
   <img src="https://img.shields.io/badge/Stellar-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Soroban-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
@@ -91,11 +92,8 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
   <img src="https://img.shields.io/badge/Solana-0B3D2E?style=for-the-badge&logo=solana&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Solidity-0B3D2E?style=for-the-badge&logo=solidity&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Rust-0B3D2E?style=for-the-badge&logo=rust&logoColor=39ff88"/>
-  <img src="https://img.shields.io/badge/Circom-0B3D2E?style=for-the-badge&logoColor=39ff88"/>
-  <img src="https://img.shields.io/badge/SnarkJS-0B3D2E?style=for-the-badge&logoColor=39ff88"/>
-  <img src="https://img.shields.io/badge/Groth16-0B3D2E?style=for-the-badge&logoColor=39ff88"/>
-  <img src="https://img.shields.io/badge/Poseidon-0B3D2E?style=for-the-badge&logoColor=39ff88"/>
-  <img src="https://img.shields.io/badge/Freighter-0B3D2E?style=for-the-badge&logoColor=39ff88"/>
+  <img src="https://img.shields.io/badge/Pine%20Script-0B3D2E?style=for-the-badge&logo=tradingview&logoColor=39ff88"/>
+  <img src="https://img.shields.io/badge/AI%20Tools-0B3D2E?style=for-the-badge&logo=openai&logoColor=39ff88"/>
 </p>
 
 #### 💻 Languages
@@ -147,7 +145,10 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
 
 <div align="center">
   <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Earth-Kumar-Roy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars" alt="Total Stars"/>
+    <img src="https://badges.pufler.dev/repos/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Public%20Repos" alt="Public Repos"/>
+  </a>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
+    <img src="https://badges.pufler.dev/visits/Earth-Kumar-Roy/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars" alt="Stars"/>
   </a>
   <a href="https://github.com/Earth-Kumar-Roy?tab=followers">
     <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Followers" alt="Followers"/>
