@@ -29,7 +29,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 | 🛡 | **Treasury & Governance** | Autonomous treasury protocols, time-locked escrow, on-chain arbitration |
 | 🔐 | **Blockchain & AI** | Smart contracts, Pine Script tools, automation pipelines, AI-assisted tooling |
 | 💸 | **DeFi & Escrow** | Milestone-based payments, verifiable audit trails, XLM payouts |
-| ⚡️ | **Web3 Tooling** | dApp frontends, wallet integrations, simple web tools & automations |
+| ⚡ | **Web3 Tooling** | dApp frontends, wallet integrations, simple web tools & automations |
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 
 ## 🛠 Web3 Tech Stack
 
-#### ⛓️ Blockchain & AI
+#### ⛓ Blockchain & AI
 <p>
   <img src="https://img.shields.io/badge/Stellar-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Soroban-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
@@ -114,7 +114,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
   <img src="https://img.shields.io/badge/Tailwind-0B3D2E?style=for-the-badge&logo=tailwindcss&logoColor=39ff88"/>
 </p>
 
-#### ☁️ Infra, Data & Automation
+#### ☁ Infra, Data & Automation
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/MongoDB-0B3D2E?style=for-the-badge&logo=mongodb&logoColor=39ff88"/>
@@ -147,14 +147,11 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
   <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Public%20Repos" alt="Public Repos"/>
   </a>
-  <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
-    <img src="https://badges.pufler.dev/visits/Earth-Kumar-Roy/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars" alt="Stars"/>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=stars">
+    <img src="https://badges.pufler.dev/stars/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars%20Earned" alt="Total Stars Earned"/>
   </a>
   <a href="https://github.com/Earth-Kumar-Roy?tab=followers">
     <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Followers" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Earth-Kumar-Roy?tab=following">
-    <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?label=Following&style=for-the-badge&labelColor=39ff88&color=0B3D2E&logo=github&logoColor=0B3D2E" alt="Following"/>
   </a>
   <a href="https://github.com/Earth-Kumar-Roy">
     <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?label=Follow&style=for-the-badge&labelColor=0B3D2E&color=00c853&logo=github&logoColor=39ff88" alt="Follow"/>
