@@ -79,57 +79,6 @@ I'm a **Web3 developer** building trustless, non-custodial infrastructure. I wor
   </tr>
 </table>
 
-## 🧬 How My Protocols Work
-
-<details open>
-<summary><b>🔐 ZK Private Voting Flow (ZKBallotChain)</b></summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0b3d2e','primaryTextColor':'#e6fff0','primaryBorderColor':'#39ff88','lineColor':'#39ff88','secondaryColor':'#06251b','tertiaryColor':'#001a0d','fontFamily':'monospace'}}}%%
-flowchart LR
-    A[🧑 Voter] -->|private vote + secret| B[Circom Circuit]
-    B -->|Poseidon hash| C[SnarkJS Prover]
-    C -->|Groth16 proof| D[Solidity Verifier]
-    D -->|valid proof| E[(On-chain Tally)]
-    D -.->|invalid| F[❌ Rejected]
-```
-
-</details>
-
-<details open>
-<summary><b>💸 Milestone Escrow Flow (StellarFlow V2)</b></summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0b3d2e','primaryTextColor':'#e6fff0','primaryBorderColor':'#39ff88','lineColor':'#39ff88','secondaryColor':'#06251b','tertiaryColor':'#001a0d','fontFamily':'monospace'}}}%%
-sequenceDiagram
-    participant C as Client
-    participant S as Soroban Escrow
-    participant F as Freelancer
-    C->>S: Lock XLM + define milestones
-    F->>S: Submit milestone proof
-    C->>S: Approve milestone
-    S-->>F: Release payout
-    Note over S: Time-lock refund if no response
-```
-
-</details>
-
-<details>
-<summary><b>🛡️ Treasury Defense Architecture (Stellar Sentinel)</b></summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0b3d2e','primaryTextColor':'#e6fff0','primaryBorderColor':'#39ff88','lineColor':'#39ff88','secondaryColor':'#06251b','tertiaryColor':'#001a0d','fontFamily':'monospace'}}}%%
-flowchart TD
-    T[(Treasury Contract)] --> R{Disbursement Request}
-    R -->|within limits| L[Dynamic Time-Lock]
-    R -->|anomalous| X[🚫 Auto-Freeze]
-    L -->|delay elapsed| P[Non-custodial Payout]
-    X --> G[On-chain Arbitration]
-    G -->|approved| L
-```
-
-</details>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
 
 ## 🛠️ Web3 Tech Stack
@@ -182,7 +131,7 @@ flowchart TD
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff88&icon_color=00c853&text_color=c9d1d9&ring_color=39ff88" width="48%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff88&icon_color=00c853&text_color=c9d1d9&ring_color=39ff88&hide_rank=true" width="48%" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" width="48%" alt="Top Languages"/>
 </div>
 
@@ -197,13 +146,16 @@ flowchart TD
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Earth-Kumar-Roy&bg_color=0d1117&color=39ff88&line=00c853&point=ffffff&area=true&area_color=00c853&hide_border=true&radius=8&title_color=39ff88" width="97%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/39ff88/Earth-Kumar-Roy" width="97%" alt="Contribution Graph"/>
 </div>
 
-### 🏆 Trophies
+### 🏆 Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Earth-Kumar-Roy&theme=matrix&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.public_repos&label=Public%20Repos" alt="Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.followers&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEarth-Kumar-Roy&style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&query=%24.following&label=Following" alt="Following"/>
+  <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=00c853&logo=github&logoColor=39ff88&label=Follow" alt="Follow"/>
 </div>
 
 ### 🐍 Contribution Snake
