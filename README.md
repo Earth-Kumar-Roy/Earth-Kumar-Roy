@@ -29,7 +29,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 | 🛡 | **Treasury & Governance** | Autonomous treasury protocols, time-locked escrow, on-chain arbitration |
 | 🔐 | **Blockchain & AI** | Smart contracts, Pine Script tools, automation pipelines, AI-assisted tooling |
 | 💸 | **DeFi & Escrow** | Milestone-based payments, verifiable audit trails, XLM payouts |
-| ⚡ | **Web3 Tooling** | dApp frontends, wallet integrations, simple web tools & automations |
+| ⚡️ | **Web3 Tooling** | dApp frontends, wallet integrations, simple web tools & automations |
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 
 ## 🛠 Web3 Tech Stack
 
-#### ⛓ Blockchain & AI
+#### ⛓️ Blockchain & AI
 <p>
   <img src="https://img.shields.io/badge/Stellar-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/Soroban-0B3D2E?style=for-the-badge&logo=stellar&logoColor=39ff88"/>
@@ -114,7 +114,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
   <img src="https://img.shields.io/badge/Tailwind-0B3D2E?style=for-the-badge&logo=tailwindcss&logoColor=39ff88"/>
 </p>
 
-#### ☁ Infra, Data & Automation
+#### ☁️ Infra, Data & Automation
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39ff88"/>
   <img src="https://img.shields.io/badge/MongoDB-0B3D2E?style=for-the-badge&logo=mongodb&logoColor=39ff88"/>
@@ -129,27 +129,14 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 ## 📊 GitHub Activity
 
 <div align="center">
-  <!-- Dark mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff88&icon_color=00c853&text_color=c9d1d9&ring_color=39ff88&hide_rank=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=00693e&icon_color=00c853&text_color=0B3D2E&ring_color=39ff88&hide_rank=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff88&icon_color=00c853&text_color=c9d1d9&ring_color=39ff88&hide_rank=true" width="48%" alt="Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&hide_border=true&bg_color=ffffff&title_color=00693e&text_color=0B3D2E"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" width="48%" alt="Top Languages"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Earth-Kumar-Roy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff88&icon_color=00c853&text_color=c9d1d9&ring_color=39ff88&hide_rank=true" width="48%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth-Kumar-Roy&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" width="48%" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Earth-Kumar-Roy&hide_border=true&background=0d1117&ring=39ff88&fire=00c853&currStreakLabel=39ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Earth-Kumar-Roy&hide_border=true&background=ffffff&ring=00693e&fire=00c853&currStreakLabel=00693e&sideLabels=0B3D2E&currStreakNum=0B3D2E&sideNums=0B3D2E&dates=6b7280"/>
-    <img src="https://streak-stats.demolab.com/?user=Earth-Kumar-Roy&hide_border=true&background=0d1117&ring=39ff88&fire=00c853&currStreakLabel=39ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="95%" alt="Streak"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Earth-Kumar-Roy&hide_border=true&background=0d1117&ring=39ff88&fire=00c853&currStreakLabel=39ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="95%" alt="Streak"/>
 </div>
 
 <br/>
@@ -160,35 +147,18 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
   <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Public%20Repos" alt="Public Repos"/>
   </a>
-  <a href="https://github.com/Earth-Kumar-Roy?tab=stars">
-    <img src="https://badges.pufler.dev/stars/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars%20Earned" alt="Total Stars Earned"/>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=repositories">
+    <img src="https://badges.pufler.dev/visits/Earth-Kumar-Roy/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars" alt="Stars"/>
   </a>
   <a href="https://github.com/Earth-Kumar-Roy?tab=followers">
     <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Followers" alt="Followers"/>
   </a>
+  <a href="https://github.com/Earth-Kumar-Roy?tab=following">
+    <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?label=Following&style=for-the-badge&labelColor=39ff88&color=0B3D2E&logo=github&logoColor=0B3D2E" alt="Following"/>
+  </a>
   <a href="https://github.com/Earth-Kumar-Roy">
     <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?label=Follow&style=for-the-badge&labelColor=0B3D2E&color=00c853&logo=github&logoColor=39ff88" alt="Follow"/>
   </a>
-</div>
-
-<div align="center">
-  <p><sub>Note: Following count badge removed to prevent broken image. View following on profile. Stars = total stars earned across all your repos.</sub></p>
-</div>
-
-<br/>
-
-### 🏅 GitHub Achievements
-
-<div align="center">
-  <a href="https://github.com/Earth-Kumar-Roy?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Earth-Kumar-Roy&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&bg_color=0d1117&title_color=39ff88" alt="trophy dark" width="95%"/>
-  </a>
-  <br/>
-  <p>
-    <a href="https://github.com/Earth-Kumar-Roy?tab=achievements">
-      <img src="https://img.shields.io/badge/View%20All%20Achievements-GitHub-39ff88?style=for-the-badge&logo=github&logoColor=0B3D2E&labelColor=0B3D2E" alt="Achievements"/>
-    </a>
-  </p>
 </div>
 
 <br/>
@@ -196,26 +166,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake.svg" alt="Contribution Snake" width="95%"/>
-  </picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
-
-## 🎓 Certifications & Developer Profiles
-
-<div align="center">
-
-| Platform | Profile Link | Verified |
-|---|---|---|
-| **Google Developers** | [developers.google.com/profile/u/Earth_Kumar_Roy](https://developers.google.com/profile/u/Earth_Kumar_Roy) | [[GDev](https://img.shields.io/badge/Google%20Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/Earth_Kumar_Roy) |
-| **Google Cloud Skill Boost** | [Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/0fa274cc-58d4-4685-855c-a87e7b870472) | [[Cloud](https://img.shields.io/badge/Cloud%20Skill%20Boost-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/0fa274cc-58d4-4685-855c-a87e7b870472) |
-| **Microsoft Learn** | [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/earth-kumar-roy) | [[MSLearn](https://img.shields.io/badge/Microsoft%20Learn-Profile-00A4EF?style=for-the-badge&logo=microsoftlearn&logoColor=white)](https://learn.microsoft.com/en-us/users/earth-kumar-roy) |
-| **Credly** | [Credly - earth_kumar_roy](https://www.credly.com/users/earth_kumar_roy) | [[Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/earth_kumar_roy) |
-
+  <img src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake.svg" alt="Contribution Snake" width="95%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
