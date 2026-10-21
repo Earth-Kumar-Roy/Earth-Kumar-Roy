@@ -148,7 +148,7 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
     <img src="https://badges.pufler.dev/repos/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Public%20Repos" alt="Public Repos"/>
   </a>
   <a href="https://github.com/Earth-Kumar-Roy?tab=stars">
-    <img src="https://badges.pufler.dev/stars/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Total%20Stars%20Earned" alt="Total Stars Earned"/>
+    <img src="https://img.shields.io/badge/Total%20Stars%20Earned-52-39ff88?style=for-the-badge&labelColor=0B3D2E&logo=github&logoColor=39ff88" alt="Total Stars Earned - 52"/>
   </a>
   <a href="https://github.com/Earth-Kumar-Roy?tab=followers">
     <img src="https://img.shields.io/github/followers/Earth-Kumar-Roy?style=for-the-badge&labelColor=0B3D2E&color=39ff88&logo=github&logoColor=39ff88&label=Followers" alt="Followers"/>
@@ -164,6 +164,28 @@ I'm a **Web3 & Blockchain developer** building trustless, non-custodial infrastr
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Earth-Kumar-Roy/Earth-Kumar-Roy/output/github-snake.svg" alt="Contribution Snake" width="95%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
+
+## 🎓 Developers Profiles
+
+<div align="center">
+
+| Platform | Profile Link |
+|---|---|
+| **Google Developers Profile** | [developers.google.com/profile/u/Earth_Kumar_Roy](https://developers.google.com/profile/u/Earth_Kumar_Roy) |
+| **Google Cloud Skill Boost** | [Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/0fa274cc-58d4-4685-855c-a87e7b870472) |
+| **Microsoft Learn Profile** | [Microsoft Learn - earth-kumar-roy](https://learn.microsoft.com/en-us/users/earth-kumar-roy) |
+| **Credly Profile** | [Credly - earth_kumar_roy](https://www.credly.com/users/earth_kumar_roy) |
+
+<br/>
+
+<a href="https://developers.google.com/profile/u/Earth_Kumar_Roy"><img src="https://img.shields.io/badge/Google%20Developers-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/0fa274cc-58d4-4685-855c-a87e7b870472"><img src="https://img.shields.io/badge/Cloud%20Skill%20Boost-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Skill Boost"/></a>
+<a href="https://learn.microsoft.com/en-us/users/earth-kumar-roy"><img src="https://img.shields.io/badge/Microsoft%20Learn-Profile-00A4EF?style=for-the-badge&logo=microsoftlearn&logoColor=white" alt="Microsoft Learn"/></a>
+<a href="https://www.credly.com/users/earth_kumar_roy"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:001a0d&height=2&section=header" width="100%"/>
