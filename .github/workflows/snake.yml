@@ -5,28 +5,25 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main, master]
+
+permissions:
+  contents: write
 
 jobs:
-  github-contribution-grid-snake:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake - Light and Dark
+      - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Earth-Kumar-Roy
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#39ff88&color_dots=#0B3D2E,#12261e,#1a3a2a,#00693e,#00c853
+            dist/github-snake.svg?color_snake=#39ff88&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
